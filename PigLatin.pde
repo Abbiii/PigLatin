@@ -10,9 +10,7 @@ public void setup()
 }
 
 public void draw()
-{
-
-}
+{}
 
 public int findFirstVowel(String sWord)
 //precondition: sWord is a valid String of length greater than 0.
